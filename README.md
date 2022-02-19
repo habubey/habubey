@@ -78,9 +78,10 @@
 
 <br><br><br>
 
-📥 You can reach me:
+🖥⌨️ You can reach me:
 
 ∙∙∙ 
+<br><br>
 <a href="https://www.linkedin.com/in/habubey/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
 </a>
