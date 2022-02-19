@@ -51,12 +51,13 @@
 <img align="left" alt="Slack" height="64px" src="./images/slack.png"/>
 <img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
 <img align="left" alt="spss" height="64px" src="./images/spss.png"/>
-
+<br><br><br>
 <img align="left" alt="R" height="64px" src="./images/Ribm.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="64px" height="50px" src="./images/bootstrap.png" />
 <img align="left" alt="styledcomponent" height="64px" src="./images/stylecomponent.png" />
 <img align="left" alt="adobeopre" height="64px" src="./images/adobepre.png" />
 <img align="left" alt="adobephoto" height="64px" src="./images/adobephoto.png" />
+<br><br><br>
 <img align="left" alt="sass" height="64px" src="./images/sass.png" />
 <img align="left" alt="MySQL" height="64px" src="./images/mysql.png"/>
 <img align="left" alt="heroku" height="64px" src="./images/heroku.png"/>
