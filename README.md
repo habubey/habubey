@@ -3,10 +3,10 @@
 
 
 
-[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
+
 
 # Hi there! Bugra aka habubey 🐿 here 👋 
-
+[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
 
 📩 Connect with me:
 
