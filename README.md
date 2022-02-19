@@ -25,7 +25,7 @@
     <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCjueE_aZljOO7xnCcesVzjQ">
 </a>
 <a>
-<img src="./images/frontend.jpeg" align='left' width="40%" alt="frontend">
+<img src="./images/frontend.jpeg" align='left' width="30%" alt="frontend">
 </a>    
 
 ### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premier Pro Editor)
