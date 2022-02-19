@@ -53,7 +53,6 @@
 <img align="left" alt="Slack" height="64px" src="./images/slack.png"/>
 <img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
 <img align="left" alt="spss" height="64px" src="./images/spss.png"/>
-<br><br><br>
 <img align="left" alt="R" height="64px" src="./images/Ribm.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="64px" height="50px" src="./images/bootstrap.png" />
 <img align="left" alt="styledcomponent" height="64px" src="./images/stylecomponent.png" />
@@ -79,9 +78,9 @@
 
 <br><br><br>
 
-📫 How to reach me:
+📥 You can reach me:
 
---> 
+∙∙∙ 
 <a href="https://www.linkedin.com/in/habubey/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
 </a>
