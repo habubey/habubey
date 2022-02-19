@@ -1,9 +1,9 @@
 
    
-<img src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
-[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
+
+[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)align='right' width="55%"](https://github.com/habubey/github-readme-stats)
 
 # Hi there 👋 Bugra here aka habubey ! 
 
