@@ -51,11 +51,11 @@
 [<img align="left" alt="Linux" width="40px" src="./images/linux.png" />][linux]
 <img align="left" alt="Jira" height="40px" src="./images/jira.png" />
 <img align="left" alt="Slack" height="40px" src="./images/slack.png"/>
-<img align="left" alt="django" height="40px" src="./images/django.png" /><br><br><br>
+<img align="left" alt="django" width="40px" src="./images/django.png" />
+<br><br><br>
 <img align="left" alt="spss" height="40px" src="./images/spss.png"/>
 <img align="left" alt="R" height="40px" src="./images/Ribm.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="40px" height="50px" src="./images/bootstrap.png" />
-<img align="left" alt="styledcomponent" height="40px" src="./images/stylecomponent.png" />
 <img align="left" alt="adobeopre" height="40px" src="./images/adobepre.png" />
 <img align="left" alt="adobephoto" height="40px" src="./images/adobephoto.png" />
 <img align="left" alt="sass" height="40px" src="./images/sass.png" />
