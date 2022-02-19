@@ -3,11 +3,12 @@
 
 
 
-[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)"](https://github.com/habubey/github-readme-stats )
+[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
 
 # Hi there 👋 Bugra here aka habubey ! 
 
 <p align="left"> <img src="https://www.linkedin.com/in/habubey/" alt="habubey" /> </p>
+
 📩 Connect with me:
 <br>
 <a href="https://www.linkedin.com/in/habubey/" target="_blank">
@@ -70,6 +71,7 @@
 [js]: https://www.javascript.com/
 [linux]: https://www.linux.org/
 [HTML]: https://www.w3schools.com/html/
+[Jira]: https://www.w3schools.com/html/
 
 <br><br><br>
 
