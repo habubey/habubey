@@ -3,7 +3,7 @@
 
 
 
-[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
+<[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)  align='right' width="55%" >
 
 # Hi there 👋 Bugra here aka habubey ! 
 
