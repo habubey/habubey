@@ -46,8 +46,10 @@
 [<img align="left" alt="GitHub" width="64px" src="./images/github.png" />][github]
 [<img align="left" alt="Python" width="64px" src="./images/python.png" />][python]
 [<img align="left" alt="HTML5" width="64px" src="./images/html.png" />][HTML]
-[<img align="left" alt="Linux" width="64px" src="./images/linux.png" />][linux]
+<img align="left" alt="css" height="64px" src="./images/css.png" />
 <br><br><br>
+[<img align="left" alt="vs" width="64px" src="./images/vs.jpeg" />][linux]
+[<img align="left" alt="Linux" width="64px" src="./images/linux.png" />][linux]
 <img align="left" alt="Jira" height="64px" src="./images/jira.png" />
 <img align="left" alt="Slack" height="64px" src="./images/slack.png"/>
 <img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
