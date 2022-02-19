@@ -40,30 +40,30 @@
 ###### 🔧 🖥 Languages and Tools:
 
 
-[<img align="left" alt="Javascript" width="35px" src="./images/js.png" />][JavaScript]
-[<img align="left" alt="ReactJS" width="35px" src="./images/react-js.png" />][ReactJS]
+[<img align="left" alt="Javascript" width="40px" src="./images/js.png" />][JavaScript]
+[<img align="left" alt="ReactJS" width="40px" src="./images/react-js.png" />][ReactJS]
 [<img align="left" alt="Git" width="40px" src="./images/git.png" />][git]
 [<img align="left" alt="GitHub" width="40px" src="./images/github.png" />][github]
 [<img align="left" alt="Python" width="40px" src="./images/python.png" />][python]
-[<img align="left" alt="HTML5" width="30px" src="./images/html.png" />][HTML]
-<img align="left" alt="css" height="10px" src="./images/css.png" />
+[<img align="left" alt="HTML5" width="40px" src="./images/html.png" />][HTML]
+<img align="left" alt="css" height="40px" src="./images/css.png" />
 <br><br><br>
-[<img align="left" alt="vs" width="64px" src="./images/vs.jpeg" />][linux]
-[<img align="left" alt="Linux" width="64px" src="./images/linux.png" />][linux]
-<img align="left" alt="Jira" height="64px" src="./images/jira.png" />
-<img align="left" alt="Slack" height="64px" src="./images/slack.png"/>
-<img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
-<img align="left" alt="spss" height="64px" src="./images/spss.png"/>
-<img align="left" alt="R" height="64px" src="./images/Ribm.png" vlign=center/>
-<img align="left" alt="bootstrap" widtsh="64px" height="50px" src="./images/bootstrap.png" />
-<img align="left" alt="styledcomponent" height="64px" src="./images/stylecomponent.png" />
-<img align="left" alt="adobeopre" height="64px" src="./images/adobepre.png" />
-<img align="left" alt="adobephoto" height="64px" src="./images/adobephoto.png" />
+[<img align="left" alt="vs" width="40px" src="./images/vs.jpeg" />][linux]
+[<img align="left" alt="Linux" width="40px" src="./images/linux.png" />][linux]
+<img align="left" alt="Jira" height="40px" src="./images/jira.png" />
+<img align="left" alt="Slack" height="40px" src="./images/slack.png"/>
+<img align="left" alt="django" height="40px" src="./images/django.png" /><br><br><br>
+<img align="left" alt="spss" height="40px" src="./images/spss.png"/>
+<img align="left" alt="R" height="40px" src="./images/Ribm.png" vlign=center/>
+<img align="left" alt="bootstrap" widtsh="40px" height="50px" src="./images/bootstrap.png" />
+<img align="left" alt="styledcomponent" height="40px" src="./images/stylecomponent.png" />
+<img align="left" alt="adobeopre" height="40px" src="./images/adobepre.png" />
+<img align="left" alt="adobephoto" height="40px" src="./images/adobephoto.png" />
 <br><br><br>
-<img align="left" alt="sass" height="64px" src="./images/sass.png" />
-<img align="left" alt="MySQL" height="64px" src="./images/mysql.png"/>
-<img align="left" alt="heroku" height="64px" src="./images/heroku.png"/>
-<img align="left" alt="netlify" height="64px" src="./images/netlify.png"/>
+<img align="left" alt="sass" height="40px" src="./images/sass.png" />
+<img align="left" alt="MySQL" height="40px" src="./images/mysql.png"/>
+<img align="left" alt="heroku" height="40px" src="./images/heroku.png"/>
+<img align="left" alt="netlify" height="40px" src="./images/netlify.png"/>
 
 <br>
 
