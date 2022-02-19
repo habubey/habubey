@@ -51,7 +51,7 @@
 [<img align="left" alt="Linux" width="40px" src="./images/linux.png" />][linux]
 <img align="left" alt="Jira" height="40px" src="./images/jira.png" />
 <img align="left" alt="Slack" height="40px" src="./images/slack.png"/>
-<img align="left" alt="django" width="40px" src="./images/django.png" />
+<img align="left" alt="django" height="45px" src="./images/django.png" />
 <br><br><br>
 <img align="left" alt="spss" height="40px" src="./images/spss.png"/>
 <img align="left" alt="R" height="40px" src="./images/Ribm.png" vlign=center/>
