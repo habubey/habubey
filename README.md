@@ -42,15 +42,15 @@
 
 [<img align="left" alt="Javascript" width="64px" src="./images/js.png" />][JavaScript]
 [<img align="left" alt="ReactJS" width="64px" src="./images/react-js.png" />][ReactJS]
-[<img align="left" alt="Git" width="32px" src="./images/git.png" />][git]
-[<img align="left" alt="GitHub" width="32px" src="./images/github.png" />][github]
-[<img align="left" alt="Python" width="42px" src="./images/python.png" />][python]
-[<img align="left" alt="HTML5" width="62px" src="./images/html.png" />][HTML]
-[<img align="left" alt="Linux" width="66px" src="./images/linux.png" />][linux]
-<img align="left" alt="Jira" height="50px" src="./images/jira.png" />
-<img align="left" alt="Slack" height="50px" src="./images/slack.png"/>
-<img align="left" alt="django" height="45px" src="./images/django.png" /><br><br><br>
-<img align="left" alt="spss" height="50px" src="./images/spss.png"/>
+[<img align="left" alt="Git" width="64px" src="./images/git.png" />][git]
+[<img align="left" alt="GitHub" width="64px" src="./images/github.png" />][github]
+[<img align="left" alt="Python" width="64px" src="./images/python.png" />][python]
+[<img align="left" alt="HTML5" width="64px" src="./images/html.png" />][HTML]
+[<img align="left" alt="Linux" width="64px" src="./images/linux.png" />][linux]
+<img align="left" alt="Jira" height="64px" src="./images/jira.png" />
+<img align="left" alt="Slack" height="64px" src="./images/slack.png"/>
+<img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
+<img align="left" alt="spss" height="64px" src="./images/spss.png"/>
 
 <img align="left" alt="R" height="45px" src="./images/Ribm.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="55px" height="50px" src="./images/bootstrap.png" />
