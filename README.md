@@ -47,7 +47,6 @@
 [<img align="left" alt="Python" width="40px" src="./images/python.png" />][python]
 [<img align="left" alt="HTML5" width="40px" src="./images/html.png" />][HTML]
 <img align="left" alt="css" height="40px" src="./images/css.png" />
-<br><br><br>
 [<img align="left" alt="vs" width="40px" src="./images/vs.jpeg" />][linux]
 [<img align="left" alt="Linux" width="40px" src="./images/linux.png" />][linux]
 <img align="left" alt="Jira" height="40px" src="./images/jira.png" />
@@ -59,7 +58,6 @@
 <img align="left" alt="styledcomponent" height="40px" src="./images/stylecomponent.png" />
 <img align="left" alt="adobeopre" height="40px" src="./images/adobepre.png" />
 <img align="left" alt="adobephoto" height="40px" src="./images/adobephoto.png" />
-<br><br><br>
 <img align="left" alt="sass" height="40px" src="./images/sass.png" />
 <img align="left" alt="MySQL" height="40px" src="./images/mysql.png"/>
 <img align="left" alt="heroku" height="40px" src="./images/heroku.png"/>
