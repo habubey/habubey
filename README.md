@@ -2,7 +2,10 @@
    
 <img src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Bugra here aka <u>habubey</u>! 
+
+[![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
+
+# Hi there 👋 Bugra here aka habubey ! 
 
 <p align="left"> <img src="https://www.linkedin.com/in/habubey/" alt="habubey" /> </p>
 📩 Connect with me:
