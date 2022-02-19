@@ -7,7 +7,6 @@
 
 # Hi there 👋 Bugra here aka habubey ! 
 
-<p align="left"> <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="habubey" /> </p>
 
 📩 Connect with me:
 
@@ -29,13 +28,13 @@
 <img src="./images/frontend.jpeg" align='left' width="20%" alt="frontend">
 </a>    
 
-### 📑 I'm currently doing front, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
+### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
 
-- 🏛 With an Economics Master Degree in Sapienza University Rome.
+- 🏛 With an European Law and Economics MSc Degree in The Sapienza University Rome.
 - 👨🏻‍💻 A life-long learner.
 - ⚡ Fun fact: I love to play basketball 🏀 , chess ♟and working out 🏋🏻.
-- 💬 You can ask me anything you want to know.
 - 🚀 I'm developing a projects for my portfolio, i keep improving myself 📃.
+- 💬 You can ask me anything you want to know.
 
 
 ###### 🔧 🖥 Languages and Tools:
