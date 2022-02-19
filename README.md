@@ -7,7 +7,7 @@
 
 # Hi there 👋 Bugra here aka habubey ! 
 
-<p align="left"> <img src="https://www.linkedin.com/in/habubey/" alt="habubey" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="habubey" /> </p>
 
 📩 Connect with me:
 
@@ -29,7 +29,7 @@
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
 </a>    
 
-### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
+### 📑 I'm currently doing front, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
 
 - 🏛 With an Economics Master Degree in Sapienza University Rome.
 - 👨🏻‍💻 A life-long learner.
@@ -38,7 +38,7 @@
 - 🚀 I'm developing a projects for my portfolio, i keep improving myself 📃.
 
 
-###### 🔧 Languages and Tools:
+###### 🔧 🖥 Languages and Tools:
 
 
 [<img align="left" alt="Javascript" width="64px" src="./images/js.png" />][JavaScript]
@@ -78,7 +78,7 @@
 
 <br><br><br>
 
-🖥⌨️ You can reach me:
+📥 You can reach me:
 
 ∙∙∙ 
 <br><br>
