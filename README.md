@@ -10,10 +10,10 @@
 
 
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=habubey&hide=stars)](https://github.com/habubey)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=habubey&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 📩 Connect with me:
-dlnaakdsl
+
 <br>
 <a href="https://www.linkedin.com/in/habubey/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
