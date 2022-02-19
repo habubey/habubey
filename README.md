@@ -10,7 +10,7 @@
 
 
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=habubey&hide=stars&count_private=true&theme=buefy&title_color=E8FCFA&bg_color=E8FCFA)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=habubey&hide=stars&count_private=true&theme=buefy&title_color=08433D&bg_color=E8FCFA&hide_border&text_color=0F3049)](https://github.com/anuraghazra/github-readme-stats)
 
 📩 Connect with me:
 
