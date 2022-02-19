@@ -52,15 +52,15 @@
 <img align="left" alt="django" height="64px" src="./images/django.png" /><br><br><br>
 <img align="left" alt="spss" height="64px" src="./images/spss.png"/>
 
-<img align="left" alt="R" height="45px" src="./images/Ribm.png" vlign=center/>
-<img align="left" alt="bootstrap" widtsh="55px" height="50px" src="./images/bootstrap.png" />
-<img align="left" alt="styledcomponent" height="50px" src="./images/stylecomponent.png" />
-<img align="left" alt="adobeopre" height="50px" src="./images/adobepre.png" />
-<img align="left" alt="adobephoto" height="50px" src="./images/adobephoto.png" />
-<img align="left" alt="sass" height="50px" src="./images/sass.png" />
-<img align="left" alt="MySQL" height="50px" src="./images/mysql.png"/>
-<img align="left" alt="heroku" height="45px" src="./images/heroku.png"/>
-<img align="left" alt="netlify" height="45px" src="./images/netlify.png"/>
+<img align="left" alt="R" height="64px" src="./images/Ribm.png" vlign=center/>
+<img align="left" alt="bootstrap" widtsh="64px" height="50px" src="./images/bootstrap.png" />
+<img align="left" alt="styledcomponent" height="64px" src="./images/stylecomponent.png" />
+<img align="left" alt="adobeopre" height="64px" src="./images/adobepre.png" />
+<img align="left" alt="adobephoto" height="64px" src="./images/adobephoto.png" />
+<img align="left" alt="sass" height="64px" src="./images/sass.png" />
+<img align="left" alt="MySQL" height="64px" src="./images/mysql.png"/>
+<img align="left" alt="heroku" height="64px" src="./images/heroku.png"/>
+<img align="left" alt="netlify" height="64px" src="./images/netlify.png"/>
 
 <br>
 
