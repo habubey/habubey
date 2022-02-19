@@ -40,12 +40,12 @@
 ###### 🔧 🖥 Languages and Tools:
 
 
-[<img align="left" alt="Javascript" width="10px" src="./images/js.png" />][JavaScript]
-[<img align="left" alt="ReactJS" width="10px" src="./images/react-js.png" />][ReactJS]
-[<img align="left" alt="Git" width="10px" src="./images/git.png" />][git]
-[<img align="left" alt="GitHub" width="10px" src="./images/github.png" />][github]
-[<img align="left" alt="Python" width="10px" src="./images/python.png" />][python]
-[<img align="left" alt="HTML5" width="10px" src="./images/html.png" />][HTML]
+[<img align="left" alt="Javascript" width="20px" src="./images/js.png" />][JavaScript]
+[<img align="left" alt="ReactJS" width="20px" src="./images/react-js.png" />][ReactJS]
+[<img align="left" alt="Git" width="20px" src="./images/git.png" />][git]
+[<img align="left" alt="GitHub" width="20px" src="./images/github.png" />][github]
+[<img align="left" alt="Python" width="30px" src="./images/python.png" />][python]
+[<img align="left" alt="HTML5" width="30px" src="./images/html.png" />][HTML]
 <img align="left" alt="css" height="10px" src="./images/css.png" />
 <br><br><br>
 [<img align="left" alt="vs" width="64px" src="./images/vs.jpeg" />][linux]
