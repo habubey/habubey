@@ -5,7 +5,7 @@
 
 
 
-# Hi there! Bugra aka habubey 🐿 here 👋 
+# Hi I am Bugra aka habubey 🐿 👋 
 [![habubey's GitHub stats](https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&theme=swift)](https://github.com/habubey/github-readme-stats)
 
 📩 Connect with me:
@@ -28,25 +28,25 @@
 <img src="./images/frontend.jpeg" align='left' width="20%" alt="frontend">
 </a>    
 
-### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Django | Adobe Photoshop & Premier Pro Editor)
+### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premier Pro Editor)
 
 - 🏛 With an European Law and Economics MSc Degree in The Sapienza University Rome.
 - 👨🏻‍💻 A life-long learner.
 - ⚡ Fun fact: I love to play basketball 🏀 , chess ♟and working out 🏋🏻.
 - 🚀 I'm developing a projects for my portfolio, i keep improving myself 📃.
-- 💬 You can ask me anything you want to know.
+- 💬 You can ask me about Frontend, Backend, Data Analytics and also Economics.
 
 
 ###### 🔧 🖥 Languages and Tools:
 
 
-[<img align="left" alt="Javascript" width="64px" src="./images/js.png" />][JavaScript]
-[<img align="left" alt="ReactJS" width="64px" src="./images/react-js.png" />][ReactJS]
-[<img align="left" alt="Git" width="64px" src="./images/git.png" />][git]
-[<img align="left" alt="GitHub" width="64px" src="./images/github.png" />][github]
-[<img align="left" alt="Python" width="64px" src="./images/python.png" />][python]
-[<img align="left" alt="HTML5" width="64px" src="./images/html.png" />][HTML]
-<img align="left" alt="css" height="64px" src="./images/css.png" />
+[<img align="left" alt="Javascript" width="10px" src="./images/js.png" />][JavaScript]
+[<img align="left" alt="ReactJS" width="10px" src="./images/react-js.png" />][ReactJS]
+[<img align="left" alt="Git" width="10px" src="./images/git.png" />][git]
+[<img align="left" alt="GitHub" width="10px" src="./images/github.png" />][github]
+[<img align="left" alt="Python" width="10px" src="./images/python.png" />][python]
+[<img align="left" alt="HTML5" width="10px" src="./images/html.png" />][HTML]
+<img align="left" alt="css" height="10px" src="./images/css.png" />
 <br><br><br>
 [<img align="left" alt="vs" width="64px" src="./images/vs.jpeg" />][linux]
 [<img align="left" alt="Linux" width="64px" src="./images/linux.png" />][linux]
