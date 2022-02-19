@@ -26,7 +26,7 @@
     <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCjueE_aZljOO7xnCcesVzjQ">
 </a>
 <a>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
+<img src="./images/frontend.jpg" align='left' width="20%" alt="frontend">
 </a>    
 
 ### 📑 I'm currently doing front, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
