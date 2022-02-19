@@ -47,7 +47,7 @@
 <img align="left" alt="Slack" height="50px" src="https://play.google.com/store/apps/details?id=com.Slack&hl=tr&gl=US"/>
 <img align="left" alt="django" height="45px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.egehangundogdu.com%2Fdjango-orm-model-iliskileri%2F&psig=AOvVaw3J77o78EbU0WcC03DkYUx0&ust=1645366508485000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDa4YT6i_YCFQAAAAAdAAAAABAD" /><br><br><br>
 <img align="left" alt="spss" height="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.com.my%2FSPSS-By-IBM-Version-23-25-i.130205665.1974438711&psig=AOvVaw3p6bOzdh6DOZxQoSNuTsYi&ust=1645366531962000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDJhJD6i_YCFQAAAAAdAAAAABAN"/>
-<img align="left" alt="sass" height="50px" src="https://github.com/enes9103/enes9103/blob/main/images/sass.png" />
+
 <img align="left" alt="R" height="45px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FR_(programlama_dili)&psig=AOvVaw3RqWcmsVAux85Z51xxn2q_&ust=1645366558018000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjD6pv6i_YCFQAAAAAdAAAAABAD" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="55px" height="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bycmedia.com%2Fblog%2Fbootstrap-nedir&psig=AOvVaw1oboC3O7HkWr8z47aXNuHA&ust=1645366582233000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD23Kf6i_YCFQAAAAAdAAAAABAD" />
 <img align="left" alt="styledcomponent" height="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.styled-components.com%2F&psig=AOvVaw1OkPxge2NKDkpP0t6vfJiw&ust=1645366602617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDb9rH6i_YCFQAAAAAdAAAAABAD" />
