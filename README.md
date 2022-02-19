@@ -33,7 +33,7 @@
 - 🏛 With an European Law and Economics MSc Degree in The Sapienza University Rome.
 - 👨🏻‍💻 A life-long learner.
 - ⚡ Fun fact: I love to play basketball 🏀 , chess ♟and working out 🏋🏻.
-- 🚀 I'm developing a projects for my portfolio, i keep improving myself 📃.
+- 🚀 I'm developing projects for my portfolio, i keep improving myself 📃.
 - 💬 You can ask me about Frontend, Backend, Data Analytics and also Economics.
 
 
