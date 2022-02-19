@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/habubey/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
 </a>
-
+<br>
 <a href="mailto:habubey" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:habubey@gmail.com">
 </a>
@@ -26,7 +26,7 @@
     <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCjueE_aZljOO7xnCcesVzjQ">
 </a>
 <a>
-<img src="./images/frontend.jpg" align='left' width="20%" alt="frontend">
+<img src="./images/frontend.jpeg" align='left' width="20%" alt="frontend">
 </a>    
 
 ### 📑 I'm currently doing front, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
