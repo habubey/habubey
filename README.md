@@ -41,7 +41,7 @@
 
 
 [<img align="left" alt="Javascript" width="64px" src="./images/js.png" />][JavaScript]
-[<img align="left" alt="ReactJS" width="64px" src="./images/react-js" />][ReactJS]
+[<img align="left" alt="ReactJS" width="64px" src="./images/react-js.png" />][ReactJS]
 [<img align="left" alt="Git" width="32px" src="./images/git.png" />][git]
 [<img align="left" alt="GitHub" width="32px" src="./images/github.png" />][github]
 [<img align="left" alt="Python" width="42px" src="./images/python.png" />][python]
@@ -57,10 +57,10 @@
 <img align="left" alt="styledcomponent" height="50px" src="stylecomponent.png" />
 <img align="left" alt="adobeopre" height="50px" src="./images/adobepre.png" />
 <img align="left" alt="adobephoto" height="50px" src="./images/adobephoto.png" />
-<img align="left" alt="sass" height="50px" src="./images/sass" />
+<img align="left" alt="sass" height="50px" src="./images/sass.png" />
 <img align="left" alt="MySQL" height="50px" src="./images/mysql.png"/>
 <img align="left" alt="heroku" height="45px" src="./images/heroku.png"/>
-<img align="left" alt="netlify" height="45px" src="./images/netflify.png"/>
+<img align="left" alt="netlify" height="45px" src="./images/netlify.png"/>
 
 <br>
 
