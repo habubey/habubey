@@ -54,7 +54,7 @@
 
 <img align="left" alt="R" height="45px" src="./images/Ribm.png" vlign=center/>
 <img align="left" alt="bootstrap" widtsh="55px" height="50px" src="./images/bootstrap.png" />
-<img align="left" alt="styledcomponent" height="50px" src="stylecomponent.png" />
+<img align="left" alt="styledcomponent" height="50px" src="./images/stylecomponent.png" />
 <img align="left" alt="adobeopre" height="50px" src="./images/adobepre.png" />
 <img align="left" alt="adobephoto" height="50px" src="./images/adobephoto.png" />
 <img align="left" alt="sass" height="50px" src="./images/sass.png" />
