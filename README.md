@@ -2,7 +2,7 @@
    
 <img src="https://github-readme-stats.vercel.app/api?username=enes9103&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Bugra here aka <u>habubey<u>! 
+# Hi there 👋 Bugra here aka <u>habubey</u>! 
 
 <p align="left"> <img src="https://www.linkedin.com/in/habubey/" alt="habubey" /> </p>
 📩 Connect with me:
