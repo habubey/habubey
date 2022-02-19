@@ -28,7 +28,7 @@
 <img src="./images/frontend.jpeg" align='left' width="20%" alt="frontend">
 </a>    
 
-### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Node.js | Django | Adobe Photoshop & Premier Pro Editor)
+### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Django | Adobe Photoshop & Premier Pro Editor)
 
 - 🏛 With an European Law and Economics MSc Degree in The Sapienza University Rome.
 - 👨🏻‍💻 A life-long learner.
