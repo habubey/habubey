@@ -8,7 +8,8 @@ I'm currently doing frontend development and content editor (Java Script | React
 
 * 🌍  MSc EU Economics & Law  - Rome Sapienza University and ongoing Full-Stack Development Bootcamp.
 * 🧠  I'm learning Backend Development 
-* ⚡  I'm developing projects for my portfolio, i keep improving myself
+* ⚡  I'm developing projects for my portfolio, i keep improving myself. 
+* 🏛  Mostly doing projects with ReactJS. 
 * ✉️  You can contact me at [habubey@outlook.com](mailto:habubey@outlook.com)
 
 ### Skills
