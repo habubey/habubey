@@ -1,91 +1,39 @@
+Hi 👋 My name is Bugra
+======================
 
-   
+Frontend Developer
+------------------
 
+I'm currently doing frontend, development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premiere Pro Editor)
 
-
-
-
-# Hi I am Bugra aka habubey 🐿 👋 
-
-
-
-
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=habubey&hide=stars&count_private=true&theme=buefy&title_color=08433D&bg_color=E8FCFA&hide_border&text_color=0F3049)](https://github.com/anuraghazra/github-readme-stats)
-
-📩 Connect with me:
-
-<br>
-<a href="https://www.linkedin.com/in/habubey/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
-</a>
-<br>
-<a href="mailto:habubey" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:habubey@gmail.com">
-</a>
-<a href="	https://medium.com/@habubey" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="	https://medium.com/@habubey">
-</a>
-<a href="https://www.youtube.com/channel/UCjueE_aZljOO7xnCcesVzjQ" target="_blank">
-    <img width="80px" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCjueE_aZljOO7xnCcesVzjQ">
-</a>
-    
-
-### 📑 I'm currently doing frontend, backend development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premier Pro Editor)
-
-- 🏛 With an European Law and Economics MSc Degree in The Sapienza University Rome.
-- 👨🏻‍💻 A life-long learner.
-- ⚡ Fun fact: I love to play basketball 🏀 , chess ♟and working out 🏋🏻.
-- 🚀 I'm developing projects for my portfolio, i keep improving myself 📃.
-- 💬 You can ask me about Frontend, Backend, Data Analytics and also Economics.
-
-
-###### 🔧 🖥 Languages and Tools:
-
-
-[<img align="left" alt="Javascript" width="40px" src="./images/js.png" />][JavaScript]
-[<img align="left" alt="ReactJS" width="40px" src="./images/react-js.png" />][ReactJS]
-[<img align="left" alt="Git" width="40px" src="./images/git.png" />][git]
-[<img align="left" alt="GitHub" width="40px" src="./images/github.png" />][github]
-[<img align="left" alt="Python" width="40px" src="./images/python.png" />][python]
-[<img align="left" alt="HTML5" width="40px" src="./images/html.png" />][HTML]
-<img align="left" alt="css" height="40px" src="./images/css.png" />
-[<img align="left" alt="vs" width="40px" src="./images/vs.jpeg" />][linux]
-[<img align="left" alt="Linux" width="40px" src="./images/linux.png" />][linux]
-<img align="left" alt="Jira" height="40px" src="./images/jira.png" />
-<img align="left" alt="Slack" height="40px" src="./images/slack.png"/>
-<img align="left" alt="django" height="45px" src="./images/django.png" />
-<br><br><br>
-<img align="left" alt="spss" height="40px" src="./images/spss.png"/>
-<img align="left" alt="R" height="40px" src="./images/Ribm.png" vlign=center/>
-<img align="left" alt="bootstrap" widtsh="40px" height="50px" src="./images/bootstrap.png" />
-<img align="left" alt="adobeopre" height="40px" src="./images/adobepre.png" />
-<img align="left" alt="adobephoto" height="40px" src="./images/adobephoto.png" />
-<img align="left" alt="sass" height="40px" src="./images/sass.png" />
-<img align="left" alt="MySQL" height="40px" src="./images/mysql.png"/>
-<img align="left" alt="heroku" height="40px" src="./images/heroku.png"/>
-<img align="left" alt="netlify" height="40px" src="./images/netlify.png"/>
-
-<br>
-
-[JavaScript]: https://www.javascript.com/
-[ReactJS]: https://tr.reactjs.org/
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/enes9103
-[python]: https://www.python.org/
-[js]: https://www.javascript.com/
-[linux]: https://www.linux.org/
-[HTML]: https://www.w3schools.com/html/
-
-<br><br><br>
-
-📥 You can reach me:
-
-∙∙∙ 
-<br><br>
-<a href="https://www.linkedin.com/in/habubey/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/habubey/">
-</a>
-<a href="mailto:habubey" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:habubey@gmail.com">
-</a>
+*   🌍  I'm based in Turkey
+*   ✉️  You can contact me at [habubey@outlook.com](mailto:habubey@outlook.com)
+*   🧠  I'm learning Backend Development
+*   ⚡  I'm developing projects for my portfolio, i keep improving myself### Skills<p align="left">
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+                                <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+                                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+                                <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/habubey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/habubey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/habubey"><img src="https://github-readme-stats.vercel.app/api?username=habubey&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="habubey's GitHub stats" /></a><a
+                      href="http://www.github.com/habubey"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=habubey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/habubey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habubey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
