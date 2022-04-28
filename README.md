@@ -1,4 +1,4 @@
-Hi 👋 My name is Bugra
+Bugra
 ======================
 
 Frontend Developer
@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm currently doing frontend development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premiere Pro Editor)
 
-* 🌍  MSc Economics and ongoing Full-Stack Development Bootcamp.
+* 🌍  MSc EU Economics & Law  - Rome Sapienza University and ongoing Full-Stack Development Bootcamp.
 * 🧠  I'm learning Backend Development 
 * ⚡  I'm developing projects for my portfolio, i keep improving myself
 * ✉️  You can contact me at [habubey@outlook.com](mailto:habubey@outlook.com)
