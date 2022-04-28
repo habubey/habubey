@@ -4,12 +4,12 @@ Hi 👋 My name is Bugra
 Frontend Developer
 ------------------
 
-I'm currently doing frontend, development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premiere Pro Editor)
+I'm currently doing frontend development and content editor (Java Script | React | Django | Data Analyst | Adobe Photoshop & Premiere Pro Editor)
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [habubey@outlook.com](mailto:habubey@outlook.com)
-* 🧠  I'm learning Backend Development
+* 🌍  MSc Economics and ongoing Full-Stack Development Bootcamp.
+* 🧠  I'm learning Backend Development 
 * ⚡  I'm developing projects for my portfolio, i keep improving myself
+* ✉️  You can contact me at [habubey@outlook.com](mailto:habubey@outlook.com)
 
 ### Skills
 
